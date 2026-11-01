@@ -3,7 +3,7 @@
 **📊 Early-Career Data Analyst**  
 🐍 `Python` · 📈 `Excel` · ☁️ `SAP Analytics Cloud`
 ## 👋 About Me
-I have an Information Technology background and training in data analysis, visualization, and dashboarding. My learning includes Python and pandas, Excel, IBM Cognos Analytics, SAP Analytics Cloud, and SAP HANA fundamentals.
+I hold a Bachelor of Engineering in Information Technology (minor in Artificial Intelligence & Machine Learning) from Gujarat Technological University, with training in data analysis, visualization, and dashboarding. My learning includes Python and pandas, Excel, IBM Cognos Analytics, SAP Analytics Cloud, and SAP HANA fundamentals.
 I completed a 350+ hour Data Analytics program with a Data Engineering specialization through SAP India’s Educate to Employ initiative, implemented by Edunet Foundation. I’ve also completed internships in Data Analytics with CSRBOX and Python (Django) with Grownited.
 ## 🚀 Selected Projects
 - 🚗 [Vehicle Vault](https://github.com/kriyankpatil/Vehicle_Vault) — Django vehicle discovery and comparison application.
