@@ -1,4 +1,3 @@
-![Animated data analytics banner](./analytics-banner.gif)
 # Kriyank Patil
 **📊 Early-Career Data Analyst**  
 🐍 `Python` · 📈 `Excel` · ☁️ `SAP Analytics Cloud`
